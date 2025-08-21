@@ -1,14 +1,5 @@
 # FSI - LOGBOOKS & CTF WRITE-UPS
 
-* Turno: [LM]XX
-* Grupo: L05G01
-* Alunos:
-    - José Miguel Moreira Isidro - up202006485 
-    - Bruno Vilela Cardoso Leal - up202008047
-    - Guilherme Miguel de Lima Freire - up202004809
-
-
-
 ## LOGBOOKS' LINKS:
 
 - [LOGBOOK3](LOGBOOK3.md)
